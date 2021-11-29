@@ -1,0 +1,172 @@
+body{
+    
+    background-color:rgba(216, 148, 159, 0.467);
+    color:black;
+    
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height:1.6em ;
+    margin: 0;
+}
+.container h1{
+    font: size 10px;
+    text-emphasis-style: bold;
+    text-transform: uppercase;
+
+    
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+#main-header{
+    text-align: center;
+    background-color: #bd4b4b;;
+    color:ivory;
+
+}
+#navbar{
+    background-color:rgb(76, 76, 78);
+    color: #fff;
+}
+#navbar ul{
+    padding:0;
+    list-style: none;
+    
+}
+#navbar li{
+    display:inline;
+
+}
+#navbar a{
+    color:#fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 15px;
+
+}
+#showcase{
+    background-image: url("WhatsApp\ Image\ 2021-10-22\ at\ 23.42.52.jpeg");
+    background-position: center right;
+    height: 300px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+#main{
+    font: size 40px;
+    float:left;
+    width:70%;
+    padding:0 30 px;
+    box-sizing: border-box;
+}
+#sidebar{
+    float:right;
+
+}
+
+
+#skills h2{
+    text-align: center;
+}
+
+   
+
+.block1 h1{
+    text-align: center;
+    color:black;
+}
+.block1{
+	float: left;
+	width: 33.33%;
+	border: 1px solid #ccc;
+	padding: 10px;
+	box-sizing: border-box;
+    background-color:#EEEEEE;
+    height: 500px;
+    margin-bottom:5%;
+}
+.block1 p{
+	text-align: centre;
+	font-weight: Bold;
+	color:black;
+}
+.block1 h1{
+	text-align: centre;
+	font-weight: Bold;
+}
+.block1 img{
+	width: 60%;
+	height: 55%;
+    padding-left: 20%;
+}
+.skills h2{
+    text-transform: uppercase;
+    text-align: center;
+}
+.footer-icons{
+    padding-left: 42%;
+    padding-top:3%;
+}
+ .footer-icons ul{
+        position:relative;
+        align-items:center;
+        top:50%;
+        left:50%;
+        padding:0;
+        margin:0;
+        transform: translate(-50%,-50%);
+        display: flex;
+    
+    
+ }
+.footer-icons ul li{
+        list-style: none;
+        margin:0 15px;
+    
+}
+.footer-icons ul li .fa {
+        color: #000000;
+        font-size: 25px;
+        line-height: 50px;
+        transition: .5s;
+}
+.footer-icons ul li .fa:hover {
+        color: #ffffff;
+}
+.footer-icons ul li a {
+        position: relative;
+        display: block;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: white;
+        text-align: center;
+        transition: 0.5s;
+        transform: translate(0,0px);
+        box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.5);
+}
+.fab{
+    color: black;
+     font-size: 30px;
+    padding-top: 20%;
+}
+.container {
+    text-align: center;   
+}   
+
+
+
+#main-footer{
+    text-align: center;
+}
+
+
+
+    
+    
+     
+
